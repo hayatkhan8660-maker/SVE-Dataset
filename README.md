@@ -1,4 +1,4 @@
-# SVD-Dataset
+# SVE-Dataset
 The Dataset contains six differet soccer event classes including:
 
 1. Goal
