@@ -22,6 +22,10 @@ Soon we will upload the annotated version of the dataset.
   year={2021},
   publisher={IEEE}
 }
+
+Muhammad, Khan, Hayat Ullah, Mohammad S. Obaidat, Amin Ullah, Arslan Munir, Muhammad Sajjad, and Victor Hugo C. de Albuquerque., 
+"AI-Driven Salient Soccer Events Recognition Framework for Next Generation IoT-Enabled Environments", 
+IEEE Internet of Things Journal, 2021.
 ```
 ```
 Muhammad, Khan, Hayat Ullah, Mohammad S. Obaidat, Amin Ullah, Arslan Munir, Muhammad Sajjad, and Victor Hugo C. de Albuquerque., 
