@@ -22,12 +22,16 @@ Soon we will upload the annotated version of the dataset.
   publisher={IEEE}
 }
 
-@Book{abramowitz+stegun,
- author    = "Milton {Abramowitz} and Irene A. {Stegun}",
- title     = "Handbook of Mathematical Functions with
-              Formulas, Graphs, and Mathematical Tables",
- publisher = "Dover",
- year      =  1964,
- address   = "New York City",
- edition   = "ninth Dover printing, tenth GPO printing"
+
+@article{hussain2019cloud,
+  title={Cloud-assisted multiview video summarization using CNN and bidirectional LSTM},
+  author={Hussain, Tanveer and Muhammad, Khan and Ullah, Amin and Cao, Zehong and Baik, Sung Wook and de Albuquerque, Victor Hugo C},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={16},
+  number={1},
+  pages={77--86},
+  year={2019},
+  publisher={IEEE}
 }
+
+
