@@ -23,15 +23,4 @@ Soon we will upload the annotated version of the dataset.
 }
 
 
-@article{hussain2019cloud,
-  title={Cloud-assisted multiview video summarization using CNN and bidirectional LSTM},
-  author={Hussain, Tanveer and Muhammad, Khan and Ullah, Amin and Cao, Zehong and Baik, Sung Wook and de Albuquerque, Victor Hugo C},
-  journal={IEEE Transactions on Industrial Informatics},
-  volume={16},
-  number={1},
-  pages={77--86},
-  year={2019},
-  publisher={IEEE}
-}
-
 
