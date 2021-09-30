@@ -14,10 +14,14 @@ https://drive.google.com/drive/folders/1PUM-h5KDHrHt6ciD32GowogLVff31vXf?usp=sha
 Soon we will upload the annotated version of the dataset. 
 
 # Citation
-```python
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```
+@article{muhammad2021ai,
+  title={AI-Driven Salient Soccer Events Recognition Framework for Next Generation IoT-Enabled Environments},
+  author={Muhammad, Khan and Ullah, Hayat and Obaidat, Mohammad S and Ullah, Amin and Munir, Arslan and Sajjad, Muhammad and de Albuquerque, Victor Hugo C},
+  journal={IEEE Internet of Things Journal},
+  year={2021},
+  publisher={IEEE}
+}
 ```
 
 
