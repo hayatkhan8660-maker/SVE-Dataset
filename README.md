@@ -14,4 +14,10 @@ https://drive.google.com/drive/folders/1PUM-h5KDHrHt6ciD32GowogLVff31vXf?usp=sha
 Soon we will upload the annotated version of the dataset. 
 
 # Citation
-https://scholar.googleusercontent.com/scholar.bib?q=info:LOfd_Si6Rl4J:scholar.google.com/&output=citation&scisdr=CgVevUogEObUyddsrUc:AAGBfm0AAAAAYVVqtUey-MQ7OGgugYsESO_WYztdMLnv&scisig=AAGBfm0AAAAAYVVqtW1fAiObav-js0okOM35QS-0Mcmb&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1#:~:text=%40article%7Bmuhammad2021ai%2C%0A%20%20title,2021%7D%2C%0A%20%20publisher%3D%7BIEEE%7D%0A%7D
+@article{muhammad2021ai,
+  title={AI-Driven Salient Soccer Events Recognition Framework for Next Generation IoT-Enabled Environments},
+  author={Muhammad, Khan and Ullah, Hayat and Obaidat, Mohammad S and Ullah, Amin and Munir, Arslan and Sajjad, Muhammad and de Albuquerque, Victor Hugo C},
+  journal={IEEE Internet of Things Journal},
+  year={2021},
+  publisher={IEEE}
+}
