@@ -23,5 +23,7 @@ Soon we will upload the annotated version of the dataset.
   publisher={IEEE}
 }
 ```
-
+```
+K. Muhammad et al., "AI-Driven Salient Soccer Events Recognition Framework for Next Generation IoT-Enabled Environments," IEEE Internet of Things Journal, 2021.
+```
 
