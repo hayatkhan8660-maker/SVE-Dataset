@@ -20,6 +20,9 @@ Here is the link to access our newly created Soccer Videos Dataset.
 ![download (7)](https://user-images.githubusercontent.com/36618567/177653089-b51fc723-cd74-469b-bf1a-b08a56c5d96d.gif)
 ![download (8)](https://user-images.githubusercontent.com/36618567/177653230-65cea71e-9f2f-4fe2-b679-0af94402b482.gif)
 ![download (9)](https://user-images.githubusercontent.com/36618567/177653242-7ee95625-d2ec-40c4-bd0f-3ab632c1263b.gif)
+![download (10)](https://user-images.githubusercontent.com/36618567/177653595-65a6b91a-ff27-44b5-81a1-8fdad3e974f2.gif)
+![download (11)](https://user-images.githubusercontent.com/36618567/177653606-d691af32-df40-4847-a69f-50c887468e80.gif)
+![download (12)](https://user-images.githubusercontent.com/36618567/177653611-f6bc24e4-b60c-4c52-b9de-5e4c8c0cfbb8.gif)
 
 
 Soon we will upload the annotated version of the dataset. 
